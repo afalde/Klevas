@@ -1,2 +1,2 @@
 # Klevas
-for teaching
+for teaching purposes
